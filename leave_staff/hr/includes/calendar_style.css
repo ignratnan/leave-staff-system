@@ -1,0 +1,37 @@
+#table1 {
+	background-color: #222222;
+
+}
+
+th {
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	font-size: 14px;
+}
+
+td {
+	width: 100px;
+	height: 80px;
+	padding: 5px;
+	text-align: left;
+}
+
+.date_days {
+	width: 60px;
+	height: 60px;
+	padding: 1px;
+	margin: 1px;
+	font-family: helvetica;
+	font-size: 24px;
+	font-weight: 600;
+	display: inline-block;
+	background-color: transparent;
+
+}
+
+
+.align_number {
+	vertical-align: center;
+}
+
